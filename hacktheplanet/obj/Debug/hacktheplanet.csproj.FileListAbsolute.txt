@@ -1,0 +1,7 @@
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\bin\Debug\hacktheplanet.exe.config
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\bin\Debug\hacktheplanet.exe
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\bin\Debug\hacktheplanet.pdb
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\obj\Debug\hacktheplanet.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\obj\Debug\hacktheplanet.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\obj\Debug\hacktheplanet.exe
+C:\Users\student\Downloads\bens_scratch\hacktheplanet\hacktheplanet\obj\Debug\hacktheplanet.pdb
